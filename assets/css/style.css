@@ -782,6 +782,8 @@ nav img{
         color: black;
     }
 }
-.container{
-    background-color: antiquewhite;
+.row{
+    padding: 5px;
+    background-color:darkgrey;
+    color:aliceblue;
 }
